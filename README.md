@@ -1,8 +1,7 @@
-PatikaDevVeriYapilariVeAlgoritmaProjesi
-Başlangıç Seviyesi .Net Core Patikası - Veri Yapıları ve Algoritmalar
+#Patika Veri Yapilari Ve Algoritma Projesi
 
-Insertion Sort Projesi
-[22,27,16,2,18,6] -> Insertion Sort
+<h3> [22,27,16,2,18,6] -> Insertion Sort </h3>
+
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız. [22,27,16,2,18,6] [2,22,27,16,18,6] [2,6,22,27,16,18] [2,6,16,22,27,18] [2,6,16,18,22,27]
 Big-O gösterimini yazınız. O (n2)
